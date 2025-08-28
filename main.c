@@ -1,4 +1,5 @@
 main() {
+	fibonacci ();
 	biggest();
         factorial();
 }	
